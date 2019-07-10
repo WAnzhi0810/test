@@ -32,7 +32,7 @@ public class lianxi {
             else if (BMI>=30&&BMI<35)
                 System.out.println("中度肥胖");
             else if (BMI>=35)
-                System.out.println("重度肥胖");
+                System.out.println("超级肥胖");
 
 
     }
